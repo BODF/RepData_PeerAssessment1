@@ -82,7 +82,7 @@ box()
 ```
 
 The mean number of steps taken each day is `r signif(avg, 4)` and the median is 
-$`r signif(med, 4)`$.
+`r as.integer(med)`.
 
 ## What is the average daily activity pattern?
 ```{r}

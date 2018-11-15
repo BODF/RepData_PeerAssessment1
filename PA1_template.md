@@ -156,7 +156,7 @@ box()
 ![](PA1_template_files/figure-html/DayGrouping-1.png)<!-- -->
 
 The mean number of steps taken each day is 9354 and the median is 
-$1.04\times 10^{4}$.
+10395.
 
 ## What is the average daily activity pattern?
 
